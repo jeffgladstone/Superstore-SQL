@@ -1,4 +1,4 @@
 
 Database from:
 
-https://community.tableau.com/docs/DOC-1236
+https://community.tableau.com/docs/DOC-10198
