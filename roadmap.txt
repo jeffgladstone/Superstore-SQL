@@ -1,5 +1,3 @@
 Roadmap:
 
-- comment header for revenue queries
-- make a 'daily user' type of query (month, year, etc...)
-- make a query that organizes something by U.S. state
+- all goals met!
